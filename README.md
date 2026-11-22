@@ -1,3 +1,5 @@
+<p align="center"><img src="Banner_dc.png" alt="dc banner" width="900"></p>
+
 # Dheer Chhabria
 
 I work on space robotics and aerospace simulation, with a focus on autonomous assembly, orbital servicing, and robot perception.
