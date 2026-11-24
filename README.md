@@ -50,10 +50,4 @@ These repositories are private. The summaries describe the research scope.
 | JavaScript | Browser-based visualization |
 | Java | Programming exercises and coursework |
 
-## GitHub activity
 
-| Public project repositories | Repositories tagged Python by GitHub | Selected research projects |
-| ---: | ---: | ---: |
-| 10 | 7 | 2 |
-
-Snapshot from November 21, 2026. Repository counts exclude this profile README. [Live contribution activity](https://github.com/dc73#js-contribution-activity)
